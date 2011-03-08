@@ -1,0 +1,11 @@
+* 2.2.1
+    * Changed archive name to redis-py-VERSION.tar.gz to not conflict
+      with the Redis server archive.
+* 2.2.0
+    * Implemented SLAVEOF
+    * Implemented CONFIG as config_get and config_set
+    * Implemented GETBIT/SETBIT
+    * Implemented BRPOPLPUSH
+    * Implemented STRLEN
+    * Implemented PERSIST
+    * Implemented SETRANGE
