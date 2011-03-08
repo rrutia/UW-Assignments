@@ -1100,3 +1100,375 @@ cd /week7/
 cd blog
 ./manage.py runserver 0.0.0.0:8000
 ls
+git init
+git add TEST
+ls
+git add .
+git commit --help
+git commit -a 'uploading'
+git commit --i
+git commit -i
+git commit -m 'uploading'
+git push oring master
+git remote add origin git@github.com:rrutia/UW-Assignments.git
+git push origin master
+git remote add origin git@github.com:rrutia/UW-Assignments.git
+git push UW-Assignments  master
+git push UW-Assignments master
+git remote
+git remote origin master
+git push origin master
+python@block115403-dvl:~$ git push origin master                                To git@github.com:rrutia/UW-Assignments.git
+error: failed to push some refs to 'git@github.com:rrutia/UW-Assignments.git'
+To prevent you from losing history, non-fast-forward updates were rejected
+Merge the remote changes before pushing again.  See the 'Note about
+fast-forwards' section of 'git push --help' for details.
+git push origin master
+git push --help
+git push --help | grep fast-forwards
+git push --help | grep fast
+
+git push origin master
+cd /var/www/assignments/
+mkdir media
+sudo mkdir media
+ls
+sudo cp /usr/local/lib/python2.6/dist-packages/django/contrib/admin/media/ /var/www/assignments/
+sudo rm /var/www/assignments/
+sudo rm /var/www/assignments/media/
+sudo rm -d /var/www/assignments/media/
+sudo rm -r /var/www/assignments/media/
+sudo cp /usr/local/lib/python2.6/dist-packages/django/contrib/admin/media/ /var/www/assignments/
+sudo cp -r /usr/local/lib/python2.6/dist-packages/django/contrib/admin/media/* /var/www/assignments/
+sudo /etc/init.d/apache2 restart
+sudo cp -r /usr/local/lib/python2.6/dist-packages/django/contrib/admin/media/* /var/www/assignments/media
+sudo mkdir media
+sudo cp -r /usr/local/lib/python2.6/dist-packages/django/contrib/admin/media/* /var/www/assignments/media
+sudo rm -r js
+sudo rm -r img
+sudo rm -r css
+ks
+ls
+cd /home/python/week7/blog/db
+ls
+chmod 755 db.db 
+ls
+cd 
+cd /week7/blog/db
+cd /home/python/week7/db
+cd /home/python/week7/blog/db/
+ls -l
+sudo chmod 755 /usr/local/lib/python2.6/dist-packages/django/db/backends/sqlite3/base.py 
+cat /usr/local/lib/python2.6/dist-packages/django/db/backends/sqlite3/base.py
+chgrp www-data db.db
+sudo chgrp www-data db.db
+ls -l
+sudo chmod 644 db.db 
+ls -l
+sudo chmod 664 db.db 
+sudo /etc/init.d/apache2 restart
+python
+git@github.com:rrutia/UW-Assignments.git
+ssh git@github.com:rrutia/UW-Assignments.git
+git
+git add
+git open
+ls
+sudo apt-get install libapache2-mod-python
+sudo /etc/init.d/apache2 restart
+ls
+cd /etc/apache2/sites-available/
+sudo nano 
+ls
+cd ..
+cd sites-enabled/
+sudo nano 000-default 
+sudo /etc/init.d/apache2 restart
+sudo nano 000-default 
+cd ..
+ls
+cd ..
+cd /home/d/
+cd home/python/
+ls
+cd ..
+git clone git@github.com:rrutia/UW-Assignments.git
+git clone github.com:rrutia/UW-Assignments.git
+git init
+sudi git init
+clear
+udo apt-get -y install git-core gitosis
+sudo apt-get -y install git-core gitosis
+sudo -H -u gitosis gitosis-init < initialKeyFileName
+sudo -H -u gitosis gitosis-init < 9112773ec36cf0af647b6bea1bade77f
+sudo nano key
+sudo -H -u gitosis gitosis-init < key
+ssh git@github.com
+ssh -v git@github.com
+clear
+ssh -v git@github.com
+clear
+ssh -v git@github.com
+ssh-keygen
+ls
+ssh git@github.com
+git init
+git@github.com:rrutia/UW-Assignments.git
+ssh git@github.com:rrutia/UW-Assignments.git
+where is .git
+whereis .git
+cat /.ssh/config
+cat ~/.ssh/config
+cat ~
+cd 
+~cd ~
+cd ~
+ls
+ls -a
+cat .ssh/
+cat .ssh/config
+cd .ssh/
+ls
+ssh git@github:rrutia/UW-Assignments.git
+ssh git@github.com:rrutia/UW-Assignments.git
+ssh git
+ssh git@github.com
+ssh git@github.com/rrutia/UW-Assignments.git
+ssh git@github.com:rrutia/UW-Assignments.git
+cd ~
+ls
+git init
+touch README
+git add week5/
+git add week7/
+git commit -m 'updating stuff'
+git remote add origin git@github.com:rrutia/UW-Assignments.git
+git push origin master
+git config --global user.name "rrutia"
+git config --global user.email daniel@araneda.net
+git init
+git add week5/
+git commit -m 'updating stuff'
+git remote add origin git@github.com:rrutia/UW-Assignments.git
+git push origin master
+git remote add origin git@github.com:rrutia/UW-Assignments.git
+git push origin master
+git add
+git add *
+ls
+git push origin master
+git push --help
+sudo nano /etc/apache2/apache2.conf
+sudo nano /etc/apache2/sites-available/default
+cd /home/python/week7/blog
+ls
+python manage.py runserver
+python manage.py runserver 0.0.0.0:8000
+vim urls.py
+pwd
+cd /etc/apache2/
+ls -l mods-enabled/
+cd /var/log/apache2/
+sudo cd /var/log/apache2/
+sudo /var/log/apache2/error.log
+sudo tail -f /var/log/apache2/error.log
+cd sites-available/
+ls
+sudo touch assignments
+sudo vim assignments 
+sudo mkdir /var/www/assignments
+sudo vim assignments 
+cd ~/week7/blog/
+vim django.wsgi 
+sudo /etc/init.d/apache2 restart
+sudo vim /etc/apache2/sites-available/default
+sudo /etc/init.d/apache2 restart
+history
+history|grep tail
+sudo tail -f /var/log/apache2/error.log
+cd /etc/apache2/sites-enabled/
+ls -l
+rm 000-default 
+sudo rm 000-default 
+sudo /etc/init.d/apache2 restart
+sudo tail -f /var/log/apache2/error.log
+ls
+ln -sf /etc/apache2/sites-available/assignments /etc/apache2/sites-enabled/uw
+sudo ln -sf /etc/apache2/sites-available/assignments /etc/apache2/sites-enabled/uw
+sudo /etc/init.d/apache2 restart
+vim ../sites-available/default
+vim uw 
+vim ../sites-available/default
+mkdir /var/www/assignments/cgi
+sudo mkdir /var/www/assignments/cgi
+sudo /etc/init.d/apache2 restart
+sudo ln -sf /etc/apache2/sites-available/default /etc/apache2/sites-enabled/000-default
+sudo /etc/init.d/apache2 restart
+tail -f /var/log/apache2/access.log
+vim uw 
+ls -l /var/log/apache2/
+sudo ls -l /var/log/apache2/
+sudo mkdir /var/log/apache2/blueboxgrid
+sudo /etc/init.d/apache2 restart
+ls
+rm 000-default 
+sudo rm 000-default 
+sudo /etc/init.d/apache2 restart
+sudo tail -f /var/log/apache2/error.log
+tail -f /var/log/apache2/access.log
+sudo /etc/init.d/apache2 restart
+cd /usr/local/lib/python2.6/dist-packages/django/db/backends/sqlite3/
+ls
+cd ..
+ls -l
+sudo chmod a+x sqlite3/ 
+ls -l
+sudo chmod a+x /sqlite3 
+sudo chmod a+x ./sqlite3 
+ls -l
+cd /home/python/week7/blog/db/
+cd ..
+ls -l
+sudo chgrp www-data db
+ls
+ls -l
+sudo chmod 777 db
+cd db/
+sudo chmod 777 db.db 
+sudo chmod 774 db.db 
+cd ..
+sudo chmod 774 db/
+sudo chmod 754 db/
+cd db/
+sudo chmod 754 db.db 
+sudo chmod 664 db.db 
+
+sudo chmod 664 db/ 
+sudo chmod 774 db/ 
+cd db/
+sudo chmod 774 db.db 
+python
+sudo pip install redis
+ls
+mkdir week8
+cd week8/
+ls
+cd ..
+ls
+cd redis-2.2.1/
+
+sudo python setup.py install
+clear
+sudo python setup.py install
+ls
+sudo easy_install redis
+python setup.py install
+setuptools-0.6c9-py2.6.egg/setuptools/dist.py'> has no 'check_packages' attribute
+python
+quit()
+exit
+
+
+
+ls
+pws
+
+.
+ls
+clear
+ls
+cat redis.egg-info/
+python 
+ls
+sudo python setup.py install
+dpkg -L python-virtualenv | grep setuptools
+apt-cache show python-setuptools
+apt-cache show python-setuptools | grep version
+apt-cache show python-setuptools | grep Version
+sudo nano ~/.profile 
+export VARIABLE
+PATH
+sudo python setup.py install
+sudo pip install redis
+sudo easy_install redis
+cd ./redis-cli
+./redis-cli
+cd redis-2.0.4/
+ls
+redis-cli
+./redis-cli
+cd ..
+cd redis-2.2.1/
+ls
+python setup.py install
+sudo apt-get install mysql-server
+cd /etc/mysql/
+sudo nano my.cnf 
+mysqladmin -u root password
+mysqladmin -u root password sbabess90
+sudo /etc/init.d/mysql restart
+sudo apt-get install mysql-query-browser
+easy_install -U setuptools
+sudo easy_install -U setuptools
+cd /
+ls
+cd ~
+ls
+cd redis-2.2.1/
+python setup.py install
+sudo python setup.py install
+mysql -u root
+/etc/init.d/mysqld restart
+cd /etc/init.d/
+ls
+mysql restart
+/usr/bin/mysqladmin -u root password '123
+'ls
+/usr/bin/mysqladmin -u root password '123'
+service mysql start
+sudo nano /etc/mysql/my.cnf 
+mysql -h localhost -u admin -p
+mysql -h localhost -u administrator -p
+mysql -u root
+service mysql start
+mysql
+ls
+cd redis-2.0.4/
+ls
+make
+./redis-server 
+service mysql start
+python@block115403-dvl:~$ service mysql start
+Rather than invoking init scripts through /etc/init.d, use the service(8)
+utility, e.g. service mysql start
+Since the script you are attempting to invoke has been converted to an
+Upstart job, you may also use the start(8) utility, e.g. start mysql
+start: Unable to connect to system bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+mysqladmin -u root password password
+sudo /etc/init.d/mysql start
+sudo mysql start
+sudo chown -R mysql:mysql /home/python/week8/mysqldb/
+sudo /etc/init.d/mysql stop
+sudo nano /etc/mysql/my.cnf 
+sudo /etc/init.d/mysql start
+service mysql start
+netstat -tap
+netstat ?
+netstat --help
+netstat -p
+netstat -a
+netstat --help
+netstat -av
+sudo /etc/init.d/mysql start
+start mysql
+ps -ef|grep mysql
+ps -ef|grep mysqld
+ps -ef|grep mysql*
+ps -ef|grep mysqld
+ps -ef
+clear
+ps -ef
+ps -ef|grep mysqld
+ps --help
+ps --eF
+ps -eF
